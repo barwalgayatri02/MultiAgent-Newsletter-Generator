@@ -1,4 +1,4 @@
-<img width="1237" height="802" alt="image" src="https://github.com/user-attachments/assets/2bc419a4-b7e8-47ca-acb1-09f42d6b621d" /># MultiAgent-Newsletter-Generator
+# MultiAgent-Newsletter-Generator
 Multi Agents | Agentic Workflow Multiagent | LLama3 | Groq Langchain | CrewAI
 
 <img width="459" height="185" alt="image" src="https://github.com/user-attachments/assets/717d222e-1b11-4b88-9432-c8e55d0c44b5" />
